@@ -12,4 +12,5 @@ public class MainActivity extends AppCompatActivity {
     }
     String str = "test one";
     String str2 = "test two";
+    String str3 = "remote two brances";
 }
