@@ -10,7 +10,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    String str = "test one";
-    String str2 = "test two";
-    Integer conflict1 ;
+    Double conf;
 }
