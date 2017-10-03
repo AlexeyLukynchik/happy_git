@@ -15,4 +15,5 @@ public class MainActivity extends AppCompatActivity {
 =======
     String str = "conflict";
 >>>>>>> conflict
+    String str1 ;
 }
