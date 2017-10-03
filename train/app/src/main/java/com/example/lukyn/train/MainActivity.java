@@ -11,5 +11,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     String str = "conflict";
+<<<<<<< HEAD
     Double doub;
+=======
+>>>>>>> conflict
+    String str1 ;
+>>>>>>> 3bef90a... first step chery pick
 }
