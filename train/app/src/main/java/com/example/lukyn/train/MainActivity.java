@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     Double conf;
 =======
     String str = "conflict";
@@ -26,4 +27,8 @@ public class MainActivity extends AppCompatActivity {
     String str1 ;
 >>>>>>> 3bef90a... first step chery pick
 >>>>>>> conflict
+=======
+    String str = "test one";
+    String str2 = "test two";
+>>>>>>> 01c9eba... add second branch
 }
